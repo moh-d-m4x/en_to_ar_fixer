@@ -13,7 +13,7 @@
 ; HOTKEY CONFIGURATION
 ; -------------------------------------------------------
 
-	; This defines the shortcut as holding Middle Mouse (MButton) and pressing Insert (Ins).
+	; This defines the shortcut as pressing Middle Mouse (MButton) or you can change it.
 MButton::
 
 	; Call the function with the mapping pairs (Arabic Letter, English Letter)
@@ -110,4 +110,5 @@ ReplaceSelectedText(q,qq,w,ww,e,ee,r,rr,t,tt,y,yy,u,uu,i,ii,o,oo,p,pp,ppp,pppp,p
     }
 
 return
+
 }
